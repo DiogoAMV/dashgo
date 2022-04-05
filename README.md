@@ -38,7 +38,7 @@ Este projeto foi feito utilizando as seguintes tecnologias:
 1.  **Faça o clone do repositório.**
 
     ```
-      git clone https://github.com/geraldobl58/ignite-dashgo.git
+      git clone https://github.com/DiogoAMV/dashgo.git
     ```
 
 2.  **Instalação das dependências**
