@@ -45,13 +45,15 @@ Este projeto foi feito utilizando as seguintes tecnologias:
 
    execute na pasta do projeto o seguinte comando:
 
-    ```npm install ou yarn
-    ```
+```
+npm install ou yarn
+ ```
 
-    após a instalação execute o seguinte comando.
+   após a instalação execute o seguinte comando.
 
-    ```npm run dev ou yarn dev
-    ```
+```
+npm run dev ou yarn dev
+```
 
 3.  **Verificando no navegador**
 
